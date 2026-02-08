@@ -12,7 +12,7 @@
 
 ## 📌 Featured Projects
 - **Chezue ERP System** – Distributor management system  
-- **Heropesa** – Fintech payment platform  
+- **Heropesa** – Fintech payment platform  heropesa.co.tz
 - **Hosting Reseller Platform** – Domain & hosting resale system  
 
 ## 📊 What I'm working on
@@ -21,7 +21,7 @@
 - Scalable web apps
 
 ## 📫 Contact Me
-- Email: info@heropesa.co.tz  
+- Email: arielisafari@gmail.com 
 - LinkedIn: Ariel Safari
 
 
