@@ -1,17 +1,18 @@
-## Hi there 👋
-# Hi, I'm Ariel 👋
+## Hi there 
+# Hi, I'm Ariel 
 
-🚀 Full-Stack Web Developer | Fintech & ERP Systems  
-🌍 Based in Tanzania  
+ Full-Stack Web Developer | Fintech & Enterprise grade Systems  
+ Based in Tanzania  
 
-## 🔧 Tech Stack
+##  Tech Stack
 - HTML, CSS, JavaScript
 - Node.js
+- Flutter
 - Git & GitHub
 - APIs & Web Integrations
 
 ## 📌 Featured Projects
-- **Chezue ERP System** – Distributor management system  
+- **Supastore ERP System** – Distributor management system  
 - **Heropesa** – Fintech payment platform  heropesa.co.tz
 - **Hosting Reseller Platform** – Domain & hosting resale system  
 
