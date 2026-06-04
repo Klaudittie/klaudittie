@@ -12,8 +12,8 @@
 - APIs & Web Integrations
 
 ## 📌 Featured Projects
-- **Supastore ERP System** – Distributor management system  
-- **Heropesa** – Fintech payment platform  heropesa.co.tz
+- **Supa ERP System** – Distributor management system  
+- **Hero** – Fintech payment platform  heropesa.co.tz
 - **Hosting Reseller Platform** – Domain & hosting resale system  
 
 ## 📊 What I'm working on
